@@ -7,3 +7,4 @@ reflex.db
 .env
 alembic/
 alembic.ini
+.DS_Store
